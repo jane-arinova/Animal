@@ -6,5 +6,6 @@ public class Dog {
         do{
             System.out.println("Love java");
         }while(true);
+        // do/while
     }
 }
