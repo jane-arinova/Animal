@@ -1,6 +1,6 @@
-package Animal;
+package Animals;
 
-public class Dog {
+public class Dogs {
     void method1(){
         for (int i = 0; i < 15; i++) {
             System.out.println("Woof Woof!!!");
