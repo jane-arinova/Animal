@@ -8,6 +8,7 @@ public class Cat {
         String reverseText = "";
         for (int i = 0; i < reverseText.length(); i++) {
             reverseText = string.charAt(i) + reverseText;
+            System.out.println("Hello");
         }
 
         return reverseText;
